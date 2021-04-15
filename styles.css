@@ -1,0 +1,51 @@
+html{
+
+    background: url(background.jfif) no-repeat center fixed;
+    background-size: cover;
+    
+}
+
+.Box{
+    width: 450px;
+    height: 490px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    color: rgb(224, 223, 221);
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 4px ;
+    border-radius: 50%;
+}
+
+h1{
+   
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+}
+h2{
+    font-size:25px;
+    font-family:'Dancing Script', cursive;
+    
+}
+p{
+    font-family: 'Merienda', cursive;
+}
+.social-icons{
+    font-size: 30px;
+}
+.social-icons a{
+    color:rgb(255, 255, 255);
+}
+.social-icons a:hover{
+    color:darkturquoise;
+}
